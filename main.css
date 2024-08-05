@@ -447,6 +447,14 @@ blockquote span{
 .contact-bottom{
     margin-top: 50px!important;
 }
+
+.contact-bottom h1{
+    font-size: 30px;
+    font-weight: 300;
+    align-item: center;
+    justify-content: center;
+}
+
 .form input[type = "text"], .form input[type = "email"], .form textarea{
     width: 100%;
     font-size: 16px;
@@ -458,6 +466,11 @@ blockquote span{
 }
 .contact-bottom .form{
     padding: 0 20px;
+}
+
+.contact-bottom button {
+    font-size: 0.85rem;
+    padding: 0.5rem;
 }
 
 /************** end of contact.html **********/
